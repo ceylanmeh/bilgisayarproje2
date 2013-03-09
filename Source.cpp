@@ -1,9 +1,9 @@
+// Mehmet Ceylan
+// 040080213	
+// Proje 1
 //
-//  main.cpp
-//  Ders3
-//
-//  Created by Gurel Erceis on 2/25/13.
-//  Copyright (c) 2013 Yogurt3D. All rights reserved.
+//  
+//  
 //
 
 #include <iostream>
